@@ -15,11 +15,9 @@ Esta é uma API para autenticação de usuários com reconhecimento facial utili
 
 ## Instalação e Execução
 
-### 1. Clonar o Repositório
-```bash
-# Clonar o projeto
-$ git clone <URL_DO_REPOSITORIO>
-$ cd <NOME_DO_PROJETO>
+### 1. Clonar o projeto
+$ git clone https://github.com/Thalys-Riquelmy/api-facial-recognition.git
+$ cd api-facial-recognition
 ```
 
 ### 2. Criar um ambiente virtual
